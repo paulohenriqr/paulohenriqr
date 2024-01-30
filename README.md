@@ -38,7 +38,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frugoli&theme=github_dark" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulohenriqr&theme=github_dark" />
 </p>
 
 # 📫 Connect With Me
