@@ -1,16 +1,49 @@
-### Hi there 👋
+<div style="margin-top:50px"></div>
 
-<!--
-**paulohenriqr/paulohenriqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="margin-bottom:100px"></div>
 
-Here are some ideas to get you started:
+# 📝About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">I have been a web developer for 2 years, specializing in the Javascript ecosystem, with expertise in NodeJS and ReactJS.</h3>
+<br/><br/>
+
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+<table align="center"><tr><td valign="top" width="33%">
+
+### <div align="center"> Frontend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,graphql&theme=dark&perline=4" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Backend </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,vitest,express,nestjs,mongodb,mysql&theme=dark&perline=4" />
+</p>
+
+</td><td valign="top" width="33%">
+
+### <div align="center"> Tools </div>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,vscode,github,git,postman&theme=dark&perline=4" />
+</p>
+
+</td></tr></table>
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Frugoli&theme=github_dark" />
+</p>
+
+# 📫 Connect With Me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/paulohenriqr/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+</div>  
