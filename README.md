@@ -14,7 +14,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,graphql,vitest&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,html,css,graphql&theme=dark&perline=4" />
 </p>
 
 </td><td valign="top" width="33%">
